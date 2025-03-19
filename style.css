@@ -4,7 +4,7 @@
     font-family: 'Muli', sans-serif;
 }
 header{
-    color: "black";
+    color: black;
     text-align: center;
     margin-top: 5%;
     border: 10px;
@@ -47,7 +47,7 @@ body{
 
 }
 span{
-    color: white;
+    color: black;
 }
 .setting{
     display: flex;
@@ -57,17 +57,15 @@ span{
     background-color:  "black";
 }
 label{
-	color:"black";
+	color:black;
 }
 input[type='checkbox']{
     width: 20px;
 }
 input[type='number']{
-    background-color: "black";
     border-style:double
 }
 .generate{
-    background-color: "white";
     color:"black";
     width: 200px;
     border-radius: 25px;
