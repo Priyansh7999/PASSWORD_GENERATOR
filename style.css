@@ -54,7 +54,6 @@ span{
     color: aliceblue;
     justify-content: space-between;
     font-size: 20px;
-    background-color:  "black";
 }
 label{
 	color:black;
@@ -66,7 +65,8 @@ input[type='number']{
     border-style:double
 }
 .generate{
-    color:"black";
+    color: white;
+    background-color:  black;
     width: 200px;
     border-radius: 25px;
     text-align: center;
@@ -77,6 +77,6 @@ input[type='number']{
 }
 .generate:hover{
     box-shadow: none;
-    color: white;
-    background-color: "black";
+    color: black;
+    background-color: white;
 }
