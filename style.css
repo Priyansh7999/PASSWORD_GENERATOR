@@ -4,7 +4,7 @@
     font-family: 'Muli', sans-serif;
 }
 header{
-    color: blanchedalmond;
+    color: "black";
     text-align: center;
     margin-top: 5%;
     border: 10px;
@@ -20,7 +20,7 @@ body{
 .container{
     background: "black";
     width: 300px;
-    box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
     padding: 10px;
     height: 400px;
     margin-left: auto;
@@ -54,16 +54,16 @@ span{
     color: aliceblue;
     justify-content: space-between;
     font-size: 20px;
-    background-color:  #23235B;
+    background-color:  "black";
 }
 label{
-    background-color:  #23235B;
+	color:"black";
 }
 input[type='checkbox']{
     width: 20px;
 }
 input[type='number']{
-    background-color: white;
+    background-color: "black";
     border-style:double
 }
 .generate{
