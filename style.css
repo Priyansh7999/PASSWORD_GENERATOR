@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 *{
-    background-color: #3B3B98;
+    background: linear-gradient(90deg, rgba(0,0,0,0.7847732843137255) 0%, rgba(22,19,19,0.8435968137254902) 50%, rgba(30,62,26,0.8548012955182073) 100%);
     box-sizing: border-box;
     font-family: 'Muli', sans-serif;
 }
