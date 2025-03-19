@@ -14,12 +14,11 @@ input{
     margin-left: auto;
 }
 body{
-        background: linear-gradient(90deg, rgba(0,0,0,0.7847732843137255) 0%, rgba(22,19,19,0.8435968137254902) 50%, rgba(30,62,26,0.8548012955182073) 100%);
-
+        background: "white";
 	color: #fff;
 }
 .container{
-        background: linear-gradient(90deg, rgba(0,0,0,0.7847732843137255) 0%, rgba(22,19,19,0.8435968137254902) 50%, rgba(30,62,26,0.8548012955182073) 100%);
+    background: "black";
     width: 300px;
     box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
     padding: 10px;
@@ -34,8 +33,6 @@ body{
     margin-top: 20px;
     border: 1px solid black; 
     padding: 5px; 
-    background: linear-gradient(90deg, rgba(0,0,0,0.7847732843137255) 0%, rgba(22,19,19,0.8435968137254902) 50%, rgba(30,62,26,0.8548012955182073) 100%);
-
 }
 .res-container .btn{
     margin-top: 0px;
@@ -47,7 +44,6 @@ body{
 .settings{
     margin-top: 20px;
     display: block;
-    background: linear-gradient(90deg, rgba(0,0,0,0.7847732843137255) 0%, rgba(22,19,19,0.8435968137254902) 50%, rgba(30,62,26,0.8548012955182073) 100%);
 
 }
 span{
@@ -71,7 +67,8 @@ input[type='number']{
     border-style:double
 }
 .generate{
-    background-color: transparent;
+    background-color: "white";
+    color:"black";
     width: 200px;
     border-radius: 25px;
     text-align: center;
@@ -83,5 +80,5 @@ input[type='number']{
 .generate:hover{
     box-shadow: none;
     color: white;
-    background-color: #3B3B98;
+    background-color: "black";
 }
